@@ -40,6 +40,9 @@ Subtract `AS4200000` from each ASN and we get
 | AS4200000118 | 118 | v |
 | AS4200000114 | 114 | r |
 
+if we use the value next to each ASN we get the correct order
+
+`bravo`
 
 RIPE : http://localcert.ripe.net:8088/export.json
 CF rpki:     https://rpki.cloudflare.com/rpki.json
